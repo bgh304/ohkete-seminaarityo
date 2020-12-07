@@ -1,0 +1,16 @@
+{
+  "name": "testi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testi.js",
+  "scripts": {
+    "start": "node testi2.js"
+  },
+  "author": "Antti",
+  "license": "",
+  "dependencies": {
+    "delay": "^4.4.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
