@@ -1,0 +1,6 @@
+Ohjelma käynnistyy komentoriviltä kirjoittamalla "node seminaarityo.js". Perään täytyy kirjoittaa kahden levy-yhtiön url-osoitteet.
+
+Esimerkki:
+node seminaarityo.js https://api.discogs.com/labels/153 https://api.discogs.com/labels/123
+
+Ohjelma käyttää Node.js:ää ja Expressiä.
